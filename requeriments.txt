@@ -1,0 +1,6 @@
+backports.functools-lru-cache==1.6.1
+beautifulsoup4==4.8.1
+pycairo==1.18.1
+soupsieve==1.9.5
+Terminator==0.98
+xlrd==1.2.0
